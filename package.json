@@ -6,7 +6,7 @@
     "Bryan Keller <b@bk.gg> (https://github.com/widget-)"
   ],
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.6"
   },
   "deprecated": false,
   "description": "Add tags to your mocha test suite, and filter them at runtime",
@@ -23,5 +23,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
